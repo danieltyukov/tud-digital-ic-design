@@ -1,0 +1,9 @@
+#set pad=$PWD
+echo
+
+setenv yourworkdir $PWD
+setenv usrdumpsimdir data/simdir/$user/simulation
+
+source /opt/ei/DK/tsmc/oa180/mini018BCDG2/216A/et4382/sourcemecadence
+source /opt/ei/DK/tsmc/oa180/mini018BCDG2/216A/et4382/sourcemepdk
+source /eda/mentor/2017-18/scripts/CALIBRE_2017.3-38.30_RHELx86_64.csh
