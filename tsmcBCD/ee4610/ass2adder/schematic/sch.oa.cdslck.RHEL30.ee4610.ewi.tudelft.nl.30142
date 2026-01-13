@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Tue Jan 13 11:13:30 2026 CET
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/datyukov/tsmcBCD/ee4610/ass2or/schematic/sch.oa.cdslck
-TimeEditLocked                 Wed Jan 14 00:08:38 2026 CET
+FilePathUsedToEditLock         /home/datyukov/tsmcBCD/ee4610/ass2adder/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Jan 14 00:23:05 2026 CET
