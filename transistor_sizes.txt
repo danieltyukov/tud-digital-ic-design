@@ -1,0 +1,26 @@
+EE4610 Digital IC Design I - Assignment 1
+NAND Gate Transistor Sizes
+==========================================
+
+Group Members:
+- Daniel Tyukov (5714699) - last digit: 9
+- Senquan Zhang (6338216) - last digit: 6
+- Yaonan Hu (6573657) - last digit: 7
+
+Calculation:
+W_P = [(a+b+c) mod 3] + 1
+    = [(9+6+7) mod 3] + 1
+    = [22 mod 3] + 1
+    = 1 + 1
+    = 2 μm
+
+Transistor Dimensions:
+==========================================
+PMOS Width (W_P):  2.0 μm
+NMOS Width (W_N):  1.0 μm (0.5 × W_P)
+Length (L):        0.18 μm (minimum)
+
+Technology: TSMC 180nm
+Transistor Models:
+- PMOS: pmos2v
+- NMOS: nmos2v
