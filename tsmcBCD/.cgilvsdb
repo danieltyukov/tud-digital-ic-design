@@ -1,0 +1,17 @@
+*lvsRunDir: /home/datyukov/tsmcBCD
+*lvsLayoutPaths: ass1nand.calibre.db
+*lvsLayoutPrimary: ass1nand
+*lvsLayoutLibrary: ee4610
+*lvsLayoutView: layout
+*lvsLayoutGetFromViewer: 1
+*lvsSourcePath: ass1nand.src.net
+*lvsSourcePrimary: ass1nand
+*lvsSourceLibrary: ee4610
+*lvsSourceView: schematic
+*lvsSpiceFile: ass1nand.sp
+*lvsERCDatabase: ass1nand.erc.results
+*lvsERCSummaryFile: ass1nand.erc.summary
+*lvsReportFile: ass1nand.lvs.report
+*cmnFDILayoutLibrary: ee4610
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: ass1nand.def
