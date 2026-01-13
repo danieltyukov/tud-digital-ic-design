@@ -1,0 +1,10 @@
+# Credentials and passwords
+password*.txt
+*password*.txt
+*.key
+*.pem
+
+# Large simulation output files
+*.dat
+*.psf/
+tsmcBCD/data/simdir/

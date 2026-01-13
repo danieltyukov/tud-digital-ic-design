@@ -1,0 +1,1 @@
+("testbench:/\ttestbench ee4610 schematic" (("open" (nil hierarchy "/{ee4610 testbench schematic }:a"))) (((2.125 -5.5875) (5.25625 -1.79375)) "a" "analogArtist-Schematic" 8))("nand2:/\tnand2 ee4610 schematic" (("open" (nil hierarchy "/{ee4610 nand2 schematic }:a"))) (((6.8875 -8.225) (10.0375 -4.35)) "a" "Schematics" 13))
