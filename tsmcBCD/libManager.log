@@ -96,3 +96,75 @@
 \a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->libListBox->value = "ee4610"
 \a cdsLibManager->libLineEdit->value = "ee4610"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "tsmc18"
+\a cdsLibManager->libLineEdit->value = "tsmc18"
+\a cdsLibManager->libListBox->value = "ee4610"
+\a cdsLibManager->libLineEdit->value = "ee4610"
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libListBox->value = "ee4610"
+\a cdsLibManager->libLineEdit->value = "ee4610"
+\a nrResizeWindow(cdsLibManager list(1391 75 602 491))
+\a nrResizeWindow(cdsLibManager list(-279 289 602 491))
+\a nrResizeWindow(cdsLibManager list(1266 20 1280 1371))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "tsmc18"
+\a cdsLibManager->libLineEdit->value = "tsmc18"
+\a cdsLibManager->libListBox->value = "ee4610"
+\a cdsLibManager->libLineEdit->value = "ee4610"
+\a cdsLibManager->cellListBox->value = "ass1nand"
+\a cdsLibManager->cellLineEdit->value = "ass1nand"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "ass1nand_tb"
+\a cdsLibManager->cellLineEdit->value = "ass1nand_tb"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "ass1nand"
+\a cdsLibManager->cellLineEdit->value = "ass1nand"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "testbench"
+\a cdsLibManager->cellLineEdit->value = "testbench"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "ass1nand"
+\a cdsLibManager->cellLineEdit->value = "ass1nand"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->FileNewCVButton->value = t
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "cdsDefTechLib"
+\a cdsLibManager->libLineEdit->value = "cdsDefTechLib"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libListBox->value = "ee4610"
+\a cdsLibManager->libLineEdit->value = "ee4610"
+\a cdsLibManager->FileNewCVButton->value = t
+\a nrSetCurrentWindow(cdsLibManager)
