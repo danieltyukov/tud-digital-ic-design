@@ -1,3 +1,0 @@
-t_pdkDir = getShellEnvVar( "tsmc018bcdg2" )
-loadi(strcat(t_pdkDir "/et4382/.cdsinit.server"))
-loadi("/eda/mentor/2017-18/RHELx86/CALIBRE_2017.3-38.30/aoi_cal_2017.3_38.30/shared/pkgs/icv.aoi/tools/queryskl/calibre.OA.skl")
